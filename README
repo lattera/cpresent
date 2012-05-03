@@ -1,0 +1,5 @@
+cpresent
+========
+
+An ncurses-based presentation tool. Useful when combined with
+tmux for creating an interactive, shell-based presentation.
